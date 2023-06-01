@@ -15,7 +15,7 @@ header{
 	text-align : center;
 	height : 60px;
 }
-section.latest-news-articles{
+section.latest-news-section{
     background-color: white;
     width: 20%;
     height: 150px;
@@ -31,7 +31,7 @@ section.main-article{
     margin:10px;
     text-align: center;
 }
-section.pictorial-news{
+section.pictorial-news-section{
     background-color: white;
     width: 30%;
     height: 50%;
@@ -40,6 +40,6 @@ section.pictorial-news{
     margin:10px;
     text-align: center;
 }
-section.pictorial-news img{
+section.pictorial-news-section img{
 	width : 100%
 }
